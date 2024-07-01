@@ -1,6 +1,8 @@
 
 # A Comprehensive Analysis of the 365datascience Newsfeed Using Tableau
 
+## Dashboard link: https://prod-apnortheast-a.online.tableau.com/t/20bcs505533232c0d5f/views/newsfeed_analysis/Dashboard1
+
 This project takes a deep dive into the actual collection of posts from the 365datascience newsfeed. By using Tableau, a data visualization tool, the project aims to uncover hidden patterns and interesting trends within the newsfeed data.
 
 ## Objective:  
